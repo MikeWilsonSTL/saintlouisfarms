@@ -113,7 +113,7 @@ have loaded correctly  and you should see ```Tomcat started on port(s): 2020``` 
 | ``farmer5@farmer.com`` | ``password`` |
 | ``farmer6@farmer.com`` | ``password`` |
 
-#### Clients
+#### Clients:
 
 | Username          | Password |
 |-------------------|----------|
