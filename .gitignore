@@ -37,4 +37,7 @@ out/
 .vscode/
 
 ### Omitting uploaded images ###
-images/
+images/*
+
+# exception to the rule
+!images/.gitkeep 
