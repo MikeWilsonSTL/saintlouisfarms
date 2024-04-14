@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### Omitting uploaded images ###
-/images/*
+images/*
